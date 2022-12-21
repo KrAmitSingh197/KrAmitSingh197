@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrAmitSingh197
-- 👀 I’m interested in Codes Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Codes and Development
+- 🌱 I’m currently in DSA Dev n CP
+- 💞️ I’m looking to collaborate on Projects on Dev
 - 📫 How to reach me @KrAmitSingh197
 
 <!---
