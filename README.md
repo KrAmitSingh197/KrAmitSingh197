@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrAmitSingh197
-- 👀 I’m interested in Codes and Development
-- 🌱 I’m currently in DSA Dev n CP n IoT
-- 💞️ I’m looking to collaborate on Projects on Dev n IoT
+- 👀 I’m interested in Robotics and Development
+- 🌱 I’m currently in Robotics, ROS and Development
+- 💞️ I’m looking to collaborate on Projects on Full Stack Development and Robotics
 - 📫 How to reach me @KrAmitSingh197
 
 <!---
